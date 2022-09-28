@@ -1,0 +1,5 @@
+NEW RESOLUSI
+- create
+- update
+- read
+- delete
