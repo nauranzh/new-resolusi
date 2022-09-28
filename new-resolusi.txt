@@ -2,3 +2,4 @@ NEW RESOLUSI
 - create
 - update
 - read
+- learning 
