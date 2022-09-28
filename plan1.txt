@@ -1,2 +1,4 @@
 - Java
 - JavaScript
+- PHP
+- Python
