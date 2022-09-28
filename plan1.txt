@@ -1,5 +1,3 @@
-- Java
 - JavaScript
-- PHP
-- Python
-- C++
+  * Framework JS
+    - Vue
